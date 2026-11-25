@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="3-1-1-PointClass/3-1-1-PointClass.vcxproj" Id="cd52087e-b760-4819-86d6-76a8f4dda1a7" />
+  <Project Path="Chapter02/Chapter02.vcxproj" Id="41ae0f77-5e4e-45c9-a8d7-cbc80f5d2e8b" />
+  <Project Path="Chapter0401_Image/Chapter0401_Image.vcxproj" Id="8b64d0a9-6d77-405c-8d58-752bce3ba747" />
+  <Project Path="Chapter0402_Video/Chapter0402_Video.vcxproj" Id="7d4c6ba1-b73f-40cd-97cf-134f7f02afe0" />
+  <Project Path="Chapter04_UserInterface/Chapter04_UserInterface.vcxproj" Id="ea298e1e-c4eb-456c-b9ad-2fdc1f9a2921" />
+  <Project Path="Chapter05/Chapter05.vcxproj" Id="32d71434-a839-4133-984b-f696b4f6779f" />
+  <Project Path="Chapter06_Pixel/Chapter06_Pixel.vcxproj" Id="982e9302-7068-43df-90dd-58d2d6f08988" />
+  <Project Path="Chapter07_Mask/Chapter07_Mask.vcxproj" Id="dc68af79-990e-4852-aecf-f18ea73ebb43" />
+</Solution>
